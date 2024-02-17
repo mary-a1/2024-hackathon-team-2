@@ -2,11 +2,11 @@
 const pg = require('pg');
 
 let dbParams = {
-  host: process.env.DBHOST,
-  port: process.env.DBPORT,
-  user: process.env.DBUSER,
-  password: process.env.DBPASS,
-  database: process.env.DBNAME
+  host: 'localhost',
+  port: '5432',
+  user: 'me',
+  password: '1234',
+  database: 'api'
 };
 
 if (process.env.NODE_ENV === 'production') {

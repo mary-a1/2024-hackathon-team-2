@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 const getLinkByTopic = require('../db/queries/linksQueries');
-const db = require('../db/connection');
+const db = require('../db/connection.js');
 
 /* GET links listing. */
 module.exports = db => {
