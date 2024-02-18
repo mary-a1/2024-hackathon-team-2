@@ -1,8 +1,8 @@
-# _SomaliMindsMatter_
+# _SomaliMindMatters_
 
 ## Description
 
-SomaliMindsMatter is a comprehensive online platform dedicated to promoting mental health awareness and providing access to resources for individuals of Somali descent and beyond. Our platform serves as a central hub for accessing vital information, support, and guidance on various mental health issues. Through curated links to reputable institutions and organizations, users can explore a wealth of resources ranging from articles and guides to professional services.
+SomaliMindMatters is a comprehensive online platform dedicated to promoting mental health awareness and providing access to resources for individuals of Somali descent and beyond. Our platform serves as a central hub for accessing vital information, support, and guidance on various mental health issues. Through curated links to reputable institutions and organizations, users can explore a wealth of resources ranging from articles and guides to professional services.
 
 ## Table of Contents
 
@@ -42,11 +42,11 @@ Refer to README files in the client and server directories for installation inst
 
 - Contact Professionals: Easily reach out to mental health professionals directly through our platform to schedule appointments, ask questions, or seek guidance and support.
 
-- Community Forum: Engage with a supportive community through our interactive forum. Users can share their own resources, ask questions, and participate in discussions moderated by professionals and experienced community members. This collaborative space fosters peer support, knowledge sharing, and connection within the SomaliMindsMatter community.
+- Community Forum: Engage with a supportive community through our interactive forum. Users can share their own resources, ask questions, and participate in discussions moderated by professionals and experienced community members. This collaborative space fosters peer support, knowledge sharing, and connection within the SomaliMindMatters community.
 
 ## Usage
 
-To use SomaliMindsMatter, follow these simple steps:
+To use SomaliMindMatters, follow these simple steps:
 
 - Exploring Resources:
   Navigate to the homepage to access the curated list of mental health resources.
@@ -75,14 +75,14 @@ To use SomaliMindsMatter, follow these simple steps:
 
 ## Contributing
 
-We welcome contributions from the community to enhance and improve SomaliMindsMatter. Whether you're a developer, mental health professional, or passionate individual interested in supporting mental health initiatives, there are several ways you can contribute:
+We welcome contributions from the community to enhance and improve SomaliMindMatters. Whether you're a developer, mental health professional, or passionate individual interested in supporting mental health initiatives, there are several ways you can contribute:
 
 - Code Contributions: If you're a developer, you can contribute to the codebase by fixing bugs, implementing new features, or improving existing functionality. Fork the repository, make your changes, and submit a pull request for review.
 
 - Documentation: Help improve our documentation by fixing errors, clarifying instructions, or adding helpful guides and tutorials. Contributions to documentation are valuable for making the platform more accessible to users and contributors.
 
-- Feedback and Suggestions: Provide feedback on your experience using SomaliMindsMatter. Share your ideas for new features, improvements, or any issues you encounter. Your feedback helps us understand the needs of our users and prioritize development efforts accordingly.
+- Feedback and Suggestions: Provide feedback on your experience using SomaliMindMatters. Share your ideas for new features, improvements, or any issues you encounter. Your feedback helps us understand the needs of our users and prioritize development efforts accordingly.
 
-- Spread the Word: Help us raise awareness about SomaliMindsMatter by sharing it with your network. Spread the word through social media, blogs, community forums, or any other channels where you think it can make a difference. Increasing visibility helps us reach more people who can benefit from our platform.
+- Spread the Word: Help us raise awareness about SomaliMindMatters by sharing it with your network. Spread the word through social media, blogs, community forums, or any other channels where you think it can make a difference. Increasing visibility helps us reach more people who can benefit from our platform.
 
-If you're interested in contributing, please reach out to the authors for more information on how to get started. Thank you for your support in making SomaliMindsMatter a valuable resource for mental health awareness and support.
+If you're interested in contributing, please reach out to the authors for more information on how to get started. Thank you for your support in making SomaliMindMatters a valuable resource for mental health awareness and support.
