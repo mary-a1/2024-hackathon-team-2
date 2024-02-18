@@ -4,5 +4,6 @@ CREATE TABLE mental_health_resources (
     title VARCHAR(255),
     summary TEXT,
     link VARCHAR(255),
-    keywords TEXT[]
+    keywords TEXT[],
+    source VARCHAR(100)
 );
