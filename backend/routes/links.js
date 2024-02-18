@@ -5,9 +5,10 @@ const db = require('../db/connection.js');
 
 /* GET links listing. */
 module.exports = db => {
-  router.get('/', function(req, res, next) {
-    console.log("get request to /links");
-    getLinkByTopic(db, 'depression')
+  router.get('/:topic', function(req, res, next) {
+    console.log("topic", req.params.topic);
+    const topic = req.params.topic;
+    getLinkByTopic(db, topic)
     .then(links => {
       console.log("links retrieved", links);
       res.json({links});
