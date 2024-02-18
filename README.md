@@ -34,45 +34,55 @@ Refer to README files in the client and server directories for installation inst
 
 ## Features
 
-    Resource Database: Access a curated collection of links to mental health resources provided by trusted institutions and organizations. Users can find information on a wide range of mental health topics, including depression, anxiety, schizophrenia, ADHD, and more.
+- Resource Database: Access a curated collection of links to mental health resources provided by trusted institutions and organizations. Users can find information on a wide range of mental health topics, including depression, anxiety, schizophrenia, ADHD, and more.
 
-    Disorder Filtering: Seamlessly filter resources based on specific mental health disorders, allowing users to quickly find information tailored to their needs and interests.
+- Disorder Filtering: Seamlessly filter resources based on specific mental health disorders, allowing users to quickly find information tailored to their needs and interests.
 
-    Professional Matching: Utilize advanced search and filtering capabilities to connect with mental health professionals who meet specific criteria, such as Somali female professionals specializing in bipolar disorder for example. Users can search based on characteristics, qualifications, expertise, and other relevant factors to find the most suitable professionals for their needs.
+- Professional Matching: Utilize advanced search and filtering capabilities to connect with mental health professionals who meet specific criteria, such as Somali female professionals specializing in bipolar disorder for example. Users can search based on characteristics, qualifications, expertise, and other relevant factors to find the most suitable professionals for their needs.
 
-    Contact Professionals: Easily reach out to mental health professionals directly through our platform to schedule appointments, ask questions, or seek guidance and support.
+- Contact Professionals: Easily reach out to mental health professionals directly through our platform to schedule appointments, ask questions, or seek guidance and support.
 
-    Community Forum: Engage with a supportive community through our interactive forum. Users can share their own resources, ask questions, and participate in discussions moderated by professionals and experienced community members. This collaborative space fosters peer support, knowledge sharing, and connection within the SomaliMindsMatter community.
+- Community Forum: Engage with a supportive community through our interactive forum. Users can share their own resources, ask questions, and participate in discussions moderated by professionals and experienced community members. This collaborative space fosters peer support, knowledge sharing, and connection within the SomaliMindsMatter community.
 
 ## Usage
 
 To use SomaliMindsMatter, follow these simple steps:
 
-    Exploring Resources:
-        Navigate to the homepage to access the curated list of mental health resources.
-        Browse through the links to find articles, guides, and services related to various mental health topics.
-        Use the search bar or filtering options to narrow down resources based on specific disorders or keywords.
+- Exploring Resources:
+  Navigate to the homepage to access the curated list of mental health resources.
 
-    Connecting with Professionals:
-        Visit the professionals section to search for mental health professionals based on specific criteria, such as expertise, qualifications, or demographics.
-        Filter the search results to find professionals who meet your needs and preferences.
-        Contact professionals directly through the platform to schedule appointments, ask questions, or seek guidance and support.
+  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/Home.png)
+  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/AboutUs.png)
 
-    Community Forum:
-        Explore the community forum to engage with other users and mental health professionals.
-        Participate in discussions, ask questions, and share resources or experiences related to mental health.
-        Contribute to a supportive and inclusive community by offering support, advice, and empathy to others.
+  Browse through the links to find articles, guides, and services related to various mental health topics.
+
+  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices1.png)
+  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices2.png)
+
+  Use filtering options to narrow down the list of professionals based on specific criteria, such as expertise, qualifications, or demographics.
+
+  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/ProfessionalsHub.png)
+
+- Connecting with Professionals:
+  Visit the professionals section to search for mental health professionals based on specific criteria, such as expertise, qualifications, or demographics.
+  Filter the search results to find professionals who meet your needs and preferences.
+  Contact professionals directly through the platform to schedule appointments, ask questions, or seek guidance and support.
+
+- Community Forum:
+  Explore the community forum to engage with other users and mental health professionals.
+  Participate in discussions, ask questions, and share resources or experiences related to mental health.
+  Contribute to a supportive and inclusive community by offering support, advice, and empathy to others.
 
 ## Contributing
 
 We welcome contributions from the community to enhance and improve SomaliMindsMatter. Whether you're a developer, mental health professional, or passionate individual interested in supporting mental health initiatives, there are several ways you can contribute:
 
-    Code Contributions: If you're a developer, you can contribute to the codebase by fixing bugs, implementing new features, or improving existing functionality. Fork the repository, make your changes, and submit a pull request for review.
+- Code Contributions: If you're a developer, you can contribute to the codebase by fixing bugs, implementing new features, or improving existing functionality. Fork the repository, make your changes, and submit a pull request for review.
 
-    Documentation: Help improve our documentation by fixing errors, clarifying instructions, or adding helpful guides and tutorials. Contributions to documentation are valuable for making the platform more accessible to users and contributors.
+- Documentation: Help improve our documentation by fixing errors, clarifying instructions, or adding helpful guides and tutorials. Contributions to documentation are valuable for making the platform more accessible to users and contributors.
 
-    Feedback and Suggestions: Provide feedback on your experience using SomaliMindsMatter. Share your ideas for new features, improvements, or any issues you encounter. Your feedback helps us understand the needs of our users and prioritize development efforts accordingly.
+- Feedback and Suggestions: Provide feedback on your experience using SomaliMindsMatter. Share your ideas for new features, improvements, or any issues you encounter. Your feedback helps us understand the needs of our users and prioritize development efforts accordingly.
 
-    Spread the Word: Help us raise awareness about SomaliMindsMatter by sharing it with your network. Spread the word through social media, blogs, community forums, or any other channels where you think it can make a difference. Increasing visibility helps us reach more people who can benefit from our platform.
+- Spread the Word: Help us raise awareness about SomaliMindsMatter by sharing it with your network. Spread the word through social media, blogs, community forums, or any other channels where you think it can make a difference. Increasing visibility helps us reach more people who can benefit from our platform.
 
 If you're interested in contributing, please reach out to the authors for more information on how to get started. Thank you for your support in making SomaliMindsMatter a valuable resource for mental health awareness and support.
