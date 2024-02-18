@@ -52,16 +52,16 @@ To use SomaliMindsMatter, follow these simple steps:
   Navigate to the homepage to access the curated list of mental health resources.
 
   ![Home Page](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/Home.png)
-  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/AboutUs.png)
+  ![About Us](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/AboutUs.png)
 
   Browse through the links to find articles, guides, and services related to various mental health topics.
 
-  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices1.png)
-  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices2.png)
+  ![Our Services](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices1.png)
+  ![Our Services Cont'd](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/OurServices2.png)
 
   Use filtering options to narrow down the list of professionals based on specific criteria, such as expertise, qualifications, or demographics.
 
-  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/ProfessionalsHub.png)
+  ![Somali Professionals Hub](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/ProfessionalsHub.png)
 
 - Connecting with Professionals:
   Visit the professionals section to search for mental health professionals based on specific criteria, such as expertise, qualifications, or demographics.
