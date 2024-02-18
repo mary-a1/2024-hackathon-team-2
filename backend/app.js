@@ -5,12 +5,15 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var pg = require('pg');
 var db = require('./db/connection');
+var bcrypt = require('bcrypt');
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var linksRouter = require('./routes/links');
 
 var app = express();
+
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
