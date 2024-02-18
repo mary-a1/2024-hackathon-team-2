@@ -51,7 +51,7 @@ To use SomaliMindsMatter, follow these simple steps:
 - Exploring Resources:
   Navigate to the homepage to access the curated list of mental health resources.
 
-  [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/Home.png)
+  ![Home Page](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/Home.png)
   [!alt text](https://github.com/mary-a1/2024-hackathon-team-2/blob/readme/Screenshots/AboutUs.png)
 
   Browse through the links to find articles, guides, and services related to various mental health topics.
